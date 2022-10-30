@@ -1,4 +1,4 @@
-#Matura_Percolation
+\#Matura_Percolation
 
 This repository contains the files described and used in chapter 3 of the Maturaarbeit of Giuseppe Lomoro on Percolation.
 
